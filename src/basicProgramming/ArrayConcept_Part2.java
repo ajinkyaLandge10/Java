@@ -108,6 +108,17 @@ public class ArrayConcept_Part2 {
 			System.out.println(count + " = " + e);
 			count++;
 		}
+		System.out.println();
+		
+		
+//		Reverse an Array Using : For Each Loop
+		int l[] = {1,2,3,4,5};
+		int counter = l.length-1;//4
+		for(int e : l) {
+			e=counter;
+			System.out.println(l[e]);
+			counter--;
+		}
 
 	}
 

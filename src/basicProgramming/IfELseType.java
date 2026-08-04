@@ -1,6 +1,6 @@
 package basicProgramming;
 
-public class IfELseType {
+public class IfElseType {
 	public static void main(String[] args) {
 
 		String str = "Selenium";
