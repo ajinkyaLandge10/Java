@@ -45,17 +45,5 @@ public class Employee {
 		this.isPerm = isPerm;
 	}
 	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }

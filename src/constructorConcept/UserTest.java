@@ -13,6 +13,8 @@ public class UserTest {
 		
 		User u2 = new User("Neha",101);
 		User u3 = new User("Priya", "Priya@gmail.com");
+		
+//		PvConstructor pv = new PvConstructor(); -- this class have a private constructor so object can't be created
 
 	}
 
