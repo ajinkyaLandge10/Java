@@ -1,11 +1,10 @@
 package CollectionsFramework;
 
-import java.util.Collection;
 import java.util.List;
 import java.util.Vector;
 
 //@formatter:off
-public class VectorConcept {
+public class List_VectorConcept {
 
 	public static void main(String[] args) {
 /*

@@ -2,7 +2,7 @@ package CollectionsFramework;
 import java.util.LinkedList;
 //@formatter:off
 
-public class LinkedListConcept {
+public class List_LinkedListConcept {
 	public static void main(String[] args) {
 	
 /*

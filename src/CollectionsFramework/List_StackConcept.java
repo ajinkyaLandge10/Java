@@ -2,7 +2,7 @@ package CollectionsFramework;
 import java.util.Stack;
 //@formatter:off
 
-public class StackConcept {
+public class List_StackConcept {
 	public static void main(String[] args) {	
 /*
  	Stack : 

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ArrayListConcept {
+public class List_ArrayListConcept {
 	public static void main(String[] args) {
 		
 //		Declaration of ArraList : 
