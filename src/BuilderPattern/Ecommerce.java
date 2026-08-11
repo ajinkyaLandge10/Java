@@ -5,7 +5,7 @@ package BuilderPattern;
 public class Ecommerce {
 	public Ecommerce login() {
 		System.out.println("User is logged in");
-		return this; // --> This statement returns current class object --new Ecommerce(); & type of object is Ecommerce.
+		return this; // --> This statement returns current class object -->new Ecommerce(); & type of object is Ecommerce.
 	}
 	public Ecommerce login(String un, String pwd) {
 		System.out.println("User is logged in with : " + un + " " + pwd);
